@@ -1,0 +1,25 @@
+This is root's files and permission
+total 76
+-rw-r--r--. 1 root root    36 Oct 25 09:37 root.permission
+drwxr-xr-x. 1 root root   522 Oct 25 08:45 classfiles
+-rw-r--r--. 1 root root  1132 Oct 24 08:52 diskspace
+drwxr-xr-x. 1 root root   108 Oct 24 08:40 shellscripts
+-rw-r--r--. 1 root root  1044 Oct 22 09:04 newletter
+-rw-r--r--. 1 root root     0 Oct 22 09:04 hosts
+-rw-r--r--. 1 root root    52 Oct 22 09:03 bad
+-rw-r--r--. 1 root root     7 Oct 22 09:03 good
+-rw-r--r--. 1 root root     0 Oct 21 11:54 file
+-rw-r--r--. 1 root root    64 Oct 21 11:52 file1
+-rw-r--r--. 1 root root   119 Oct 21 11:50 file2
+-rw-r--r--. 1 root root  1044 Oct 21 09:59 letter
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Documents
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Downloads
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Music
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Pictures
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Public
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Templates
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Videos
+drwxr-xr-x. 1 root root     0 Oct 16 08:51 Desktop
+-rw-r--r--. 1 root root   515 Oct 11 08:34 TESTS
+-rw-r--r--. 1 root root 33582 Oct 11 08:32 TEST
+-rw-------. 1 root root   524 Oct  8 10:20 anaconda-ks.cfg

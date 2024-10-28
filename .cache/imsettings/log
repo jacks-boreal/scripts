@@ -1,0 +1,86 @@
+[        22.963115]: IMSettings-Daemon[4458]: INFO: Starting imsettings-daemon...
+[        22.964399]: IMSettings-Daemon[4458]: INFO:   [HOME=/root/.config/imsettings]
+[        22.964545]: IMSettings-Daemon[4458]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        22.965172]: IMSettings-Daemon[4458]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        22.965632]: IMSettings-Daemon[4458]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        22.965664]: IMSettings-Daemon[4458]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[         0.697459]: libnotify[4458]: DEBUG: SNAP app: (null)
+[         0.734425]: IMSettings-Daemon[4458]: INFO: Unloading imesttings module: gsettings
+[         0.734582]: IMSettings-Daemon[4458]: INFO: imsettings-daemon is shut down.
+[        46.536571]: IMSettings-Daemon[6480]: INFO: Starting imsettings-daemon...
+[        46.536775]: IMSettings-Daemon[6480]: INFO:   [HOME=/root/.config/imsettings]
+[        46.536804]: IMSettings-Daemon[6480]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        46.536827]: IMSettings-Daemon[6480]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        46.536849]: IMSettings-Daemon[6480]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        46.536870]: IMSettings-Daemon[6480]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[        42.390466]: libnotify[6480]: DEBUG: SNAP app: (null)
+[        42.420799]: IMSettings-Daemon[6480]: INFO: Unloading imesttings module: gsettings
+[        42.420922]: IMSettings-Daemon[6480]: INFO: imsettings-daemon is shut down.
+[         5.926809]: IMSettings-Daemon[8639]: INFO: Starting imsettings-daemon...
+[         5.927327]: IMSettings-Daemon[8639]: INFO:   [HOME=/root/.config/imsettings]
+[         5.927415]: IMSettings-Daemon[8639]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[         5.927530]: IMSettings-Daemon[8639]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[         5.927587]: IMSettings-Daemon[8639]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[         5.927618]: IMSettings-Daemon[8639]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[         2.097951]: libnotify[8639]: DEBUG: SNAP app: (null)
+[         2.129324]: IMSettings-Daemon[8639]: INFO: Unloading imesttings module: gsettings
+[         2.129650]: IMSettings-Daemon[8639]: INFO: imsettings-daemon is shut down.
+[        52.627950]: IMSettings-Daemon[2274]: INFO: Starting imsettings-daemon...
+[        52.628123]: IMSettings-Daemon[2274]: INFO:   [HOME=/root/.config/imsettings]
+[        52.628175]: IMSettings-Daemon[2274]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        52.628201]: IMSettings-Daemon[2274]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        52.628244]: IMSettings-Daemon[2274]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        52.628269]: IMSettings-Daemon[2274]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[        34.830275]: libnotify[2274]: DEBUG: SNAP app: (null)
+[        34.875881]: IMSettings-Daemon[2274]: INFO: Unloading imesttings module: gsettings
+[        34.875993]: IMSettings-Daemon[2274]: INFO: imsettings-daemon is shut down.
+[        38.345927]: IMSettings-Daemon[2298]: INFO: Starting imsettings-daemon...
+[        38.346053]: IMSettings-Daemon[2298]: INFO:   [HOME=/root/.config/imsettings]
+[        38.346103]: IMSettings-Daemon[2298]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        38.346126]: IMSettings-Daemon[2298]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        38.346145]: IMSettings-Daemon[2298]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        38.346177]: IMSettings-Daemon[2298]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[        56.982057]: libnotify[2298]: DEBUG: SNAP app: (null)
+[        57.021000]: IMSettings-Daemon[2298]: INFO: Unloading imesttings module: gsettings
+[        57.021156]: IMSettings-Daemon[2298]: INFO: imsettings-daemon is shut down.
+[        34.220177]: IMSettings-Daemon[6521]: INFO: Starting imsettings-daemon...
+[        34.220423]: IMSettings-Daemon[6521]: INFO:   [HOME=/root/.config/imsettings]
+[        34.220462]: IMSettings-Daemon[6521]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        34.220491]: IMSettings-Daemon[6521]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        34.220511]: IMSettings-Daemon[6521]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        34.220531]: IMSettings-Daemon[6521]: INFO:   [MODULES=gsettings]
+
+** GNOME isn't supported at all
+[        56.705263]: IMSettings-Daemon[6521]: INFO: Release the ownership of com.redhat.imsettings
+
+[        56.705410]: libnotify[6521]: DEBUG: SNAP app: (null)
+
+[        56.705462]: GLib-GIO[6521]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+[        56.705495]: GLib-GIO[6521]: CRITICAL **: Error while sending GetNameOwner() message: The connection is closed
+
+[        56.705523]: GLib-GIO[6521]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+[        56.705583]: IMSettings-Daemon[6521]: INFO: Unloading imesttings module: gsettings
+[        56.707103]: IMSettings-Daemon[6521]: INFO: imsettings-daemon is shut down.
